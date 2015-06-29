@@ -6,7 +6,7 @@ Marcio Junior Vieira
 
 Install:
 
-Copiar estrututa mesclando com arquivos padrões do Alfresco.
+Copiar estrutura mesclando com arquivos padrões do Alfresco.
 
 Testado na 5.0.d.
 
